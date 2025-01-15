@@ -6,7 +6,7 @@ The goal of this A.I.M is simple: to host all the files for the pioneering e-com
 CAMEROON GALLERY 2.0
 Development Idea
 
-1- Sculpt Maxine Moffet. Why?
+1- Sculpt Maxine Moffett epse Lako. Why?
 Because our new 3D Web App will be so LIT that we would need an eloquent tour guide to kindly walk our visitors through the amazing Bridged Africa.
 
 Work status: Working in progress (on Blender and Three.JS)
